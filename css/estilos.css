@@ -1,9 +1,11 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: tomato;
+    color: blue;
 }
 
 h1 {
     color: brown;
 }
+
+p { margin-top: dashed 6px black;}
