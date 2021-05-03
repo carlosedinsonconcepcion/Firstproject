@@ -1,11 +1,11 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: tomato;
+    color: blue;
 }
 
-p {
-    border: dotted 3px green;
-    margin-top: 12%;
-    color: darkgray;
+h1 {
+    color: brown;
 }
+
+p { margin-top: dashed 6px black;}
