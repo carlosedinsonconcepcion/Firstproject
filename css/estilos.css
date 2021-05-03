@@ -3,3 +3,9 @@ body {
     font-family: "Arial";
     color: tomato;
 }
+
+p {
+    border: dotted 3px green;
+    margin-top: 12%;
+    color: darkgray;
+}
