@@ -6,6 +6,8 @@ body {
 
 h1 {
     color: brown;
+    border: solid yellow 3px;
+    border-radius: 6px ;
 }
 
 p { margin-top: dashed 6px black;}
